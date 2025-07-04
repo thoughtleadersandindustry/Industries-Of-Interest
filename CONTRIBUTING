@@ -1,0 +1,31 @@
+# Contributing to Industries-Of-Interest
+
+Thank you for your interest in contributing!
+
+## How to Contribute
+
+1. **Fork the repository.**  
+   Click the **Fork** button at the top of this page to create your own copy.
+
+2. **Create a new branch.**  
+   Use a descriptive branch name, e.g., `feature/new-industry` or `update/resource-list`.
+
+3. **Add or update content.**  
+   - Add credible, well-sourced resources.
+   - Use clear file and folder names.
+   - Keep formatting consistent.
+
+4. **Submit a pull request.**  
+   Open a pull request with a clear description of what you’ve added or changed.
+
+## Guidelines
+
+- Ensure resources are reputable and relevant.
+- Avoid promotional or low-quality content.
+- Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Questions?
+
+If you have questions or suggestions, please open an issue or contact the maintainers.
+
+Thank you for helping build a valuable resource!
