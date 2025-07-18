@@ -1,33 +1,29 @@
-# Financial Resources
+# Banking
 
-This folder contains articles, research, white papers, and other credible resources related to the banking and financial services industry.
+This folder contains organized information, articles, and resources related to the banking and financial services industry. It is part of the **Industries-Of-Interest** repository, which brings together credible content across multiple professional sectors.
 
 ## Purpose
 
-The purpose of this folder is to organize and share valuable information that supports professional development, industry research, and knowledge sharing for those interested in financial topics.
+The goal of this section is to provide a central place to share quality information about banking trends, services, and innovations that help individuals and businesses manage their finances.
 
-Resources may include:
-- Blog posts or thought leadership pieces
-- Industry reports and white papers
-- Guides and best practices
-- Case studies and success stories
+## Structure
 
-## Guidelines
+Content in the `Banking` folder may include:
 
-- Only include credible, well-sourced materials.
-- Clearly name files to reflect their topic or title.
-- Provide proper attribution and source links for each resource.
-- Use `.md` files for articles or summaries and link back to the original publication when appropriate.
+- **Financial-Resources/** — Blog posts, white papers, and industry research.
+- **Digital-Banking/** — Articles and guides about online and mobile banking services.
+- **Blogs/** — In-depth examples of banking solutions and projects.
+- **Images/** — Visual assets and graphics (where usage is permitted).
 
-## How to Add Resources
+## How to Contribute
 
-1. Add a new `.md` file describing the resource.
-2. Include a clear title, short summary, and link to the original source.
-3. Organize files clearly within this folder.
-4. If needed, create subfolders for specific topics or themes (e.g., `Fintech/`, `Regulation/`).
+If you’d like to add a banking resource:
+1. Create a new `.md` file in the appropriate folder.
+2. Include a clear title, a short summary, and a link to the original source if applicable.
+3. Follow the repository’s [CONTRIBUTING.md](../CONTRIBUTING.md) and [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## License & Usage
 
-Make sure any shared material respects copyright, client permissions, and fair use guidelines. Always credit original authors or organizations.
+Please ensure all content respects copyright laws and client permissions, and always credit the original source.
 
-Thank you for contributing to a valuable collection of financial knowledge.
+Thank you for helping build a trusted collection of information about the banking industry.
