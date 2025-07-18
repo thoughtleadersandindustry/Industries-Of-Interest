@@ -12,7 +12,7 @@ Content in the `Banking` folder may include:
 
 - **Financial-Resources/** — Blog posts, white papers, and industry research.
 - **Digital-Banking/** — Articles and guides about online and mobile banking services.
-- **Blogs/** — In-depth examples of banking solutions and projects.
+- **Case-Studies/** — In-depth examples of banking solutions and projects.
 - **Images/** — Visual assets and graphics (where usage is permitted).
 
 ## How to Contribute
