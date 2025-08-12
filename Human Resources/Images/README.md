@@ -1,22 +1,22 @@
-# Images – Marketing
+# Images – Human Resources
 
-This subfolder contains visual assets related to marketing campaigns, branding, and promotional content. These images may include creative designs, campaign graphics, social media visuals, and other marketing-related media.
+This subfolder contains images related to Human Resources (HR) topics, initiatives, and materials. These images can be used to support HR communications, training programs, policy documents, and company culture initiatives.
 
 ## Purpose
 
 The goal of this subfolder is to:
-- Store and organize marketing-related imagery in one location.
-- Provide visual references for campaigns, projects, and branding work.
-- Support written content such as blogs, case studies, and strategy documents.
-- Showcase creative approaches and design styles used in marketing efforts.
+- Store and organize HR-related visual assets in one location.
+- Provide visual support for HR presentations, infographics, and written content.
+- Showcase workplace culture, events, and HR initiatives.
+- Create a visual archive for internal and external HR-related communications.
 
 ## Possible Contents
 
-- **Campaign Graphics** – Ads, banners, and promotional visuals.
-- **Brand Assets** – Logos, style guides, and brand imagery.
-- **Social Media Creatives** – Post designs, stories, and carousel images.
-- **Infographics** – Data visualizations and educational graphics.
-- **Event Marketing** – Posters, flyers, and display visuals.
+- **Workplace Culture Photos** – Images of company events, employee engagement activities, and team building.
+- **Training & Onboarding Visuals** – Graphics or photos used in orientation and skills training.
+- **Policy & Compliance Graphics** – Visual aids for explaining workplace rules or safety protocols.
+- **Recruitment Materials** – Images used in hiring campaigns and job postings.
+- **HR Campaign Visuals** – Photos or designs for employee wellness, benefits awareness, or diversity programs.
 
 ## File Naming Guidelines
 
@@ -25,11 +25,11 @@ The goal of this subfolder is to:
 
 ## Contribution Guidelines
 
-- Only include images that are approved for public use.
+- Only include images that are approved for public or internal use.
 - Attribute any third-party visuals to their original creators.
-- Keep file sizes optimized for quick loading while maintaining quality.
-- Store images in appropriate format (.jpg, .png, .svg, etc.) depending on use case.
+- Keep file sizes optimized for quick loading while maintaining clarity.
+- Use appropriate file formats (.jpg, .png, .svg) based on the intended use.
 
 ---
 
-*Part of the Marketing folder in the Industries-Of-Interest repository.*
+*Part of the Human-Resources folder in the Industries-Of-Interest repository.*
