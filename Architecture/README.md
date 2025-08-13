@@ -3,10 +3,10 @@
 This folder contains detailed information and resources about notable architectural projects contributed to the **Industries-Of-Interest** repository.
 
 Each project file includes:
-- A clear description of the project
+- A clear image or description of the project
 - Relevant background and context
 - Images or diagrams (where permitted)
-- Links to original sources, case studies, or client pages
+- Links to original sources, case studies, or client/project pages
 
 ## Purpose
 
