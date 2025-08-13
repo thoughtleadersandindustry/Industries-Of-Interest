@@ -1,34 +1,41 @@
-# Human Resources
+# Case Studies – Human Resources
 
-This folder contains resources, articles, case studies, and project materials related to the Human Resources (HR) industry. It is intended to provide valuable insights, tools, and references for professionals, businesses, and researchers interested in workforce management, talent development, and organizational culture.
+This subfolder contains detailed case studies that explore real-world Human Resources (HR) initiatives, challenges, and solutions. Each case study provides valuable insights into HR strategies, policies, and practices that have impacted organizations and their employees.
 
 ## Purpose
 
-The goal of this collection is to:
-- Share practical HR strategies, policies, and best practices.
-- Highlight innovations and trends in employee engagement and retention.
-- Provide reference materials for compliance, training, and performance management.
-- Document successful HR initiatives and case studies.
+The goal of this subfolder is to:
+- Document HR success stories and lessons learned.
+- Provide real examples of HR practices applied in various industries.
+- Offer reference material for HR professionals, managers, and organizational leaders.
+- Showcase innovative approaches to employee engagement, retention, and development.
 
-## Topics Covered
+## Suggested Case Study Structure
 
-This folder may include resources related to:
-- Talent acquisition and recruitment campaigns  
-- Employee onboarding and training  
-- Performance evaluation and career development  
-- Workplace culture and diversity initiatives  
-- HR technology and software tools  
-- Employment law and compliance  
-- Remote work policies and best practices  
+Each case study should include:
+1. **Case Study Title**
+2. **Organization / Company**
+3. **Industry**
+4. **Challenge or Problem**
+5. **HR Strategy or Solution Implemented**
+6. **Execution & Process**
+7. **Results & Outcomes**
+8. **Lessons Learned**
+9. **References & Credits**
+10. **Supporting Media** – Photos, charts, or infographics.
+
+## File Naming Guidelines
+
+- Use lowercase with hyphens for filenames.  
+  Example: file-name-like-this.md
 
 ## Contribution Guidelines
 
-If adding content:
-1. Ensure all files are in Markdown (`.md`) format where possible.  
-2. Use descriptive, hyphenated filenames.  
-3. Attribute sources where applicable.  
-4. Avoid including any confidential or proprietary employee data.
+- Ensure all information is factual, sourced, and publicly shareable.
+- Attribute any external data, quotes, or visuals.
+- Avoid including confidential employee or company information.
+- Provide both qualitative and quantitative results when possible.
 
 ---
 
-*Part of the Industries-Of-Interest repository — a curated collection of industry-specific knowledge and resources.*
+*Part of the Human-Resources folder in the Industries-Of-Interest repository.*
