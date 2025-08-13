@@ -2,7 +2,7 @@
 
 This folder contains visual assets related to the banking and financial services industry. These images are used to support case studies, articles, and other written content throughout the **Industries-Of-Interest** repository. 
 
-#*For .webp images you will need to view the raw file to see the image*
+# *For .webp images you will need to view the raw file to see the image*
 
 ## Purpose
 
