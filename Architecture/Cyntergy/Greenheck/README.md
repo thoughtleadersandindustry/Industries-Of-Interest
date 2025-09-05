@@ -39,4 +39,4 @@ They provide detailed project profiles and technical resources for architects an
 
 ---
 
-*Part of the **Cyntergy** section in the **Architecture** folder of the Places-Of-Interest repository.*
+*Part of the **Cyntergy** section in the **Architecture** folder of the Industries-Of-Interest repository.*
